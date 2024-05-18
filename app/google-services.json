@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "962517788008",
+    "firebase_url": "https://smart-exam-abfcf-default-rtdb.firebaseio.com",
+    "project_id": "smart-exam-abfcf",
+    "storage_bucket": "smart-exam-abfcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962517788008:android:dcc755a718c986717f62dd",
+        "android_client_info": {
+          "package_name": "com.example.smartexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWV9MdnzLR7D7-yXK0YYnKv8W3STEZ0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
